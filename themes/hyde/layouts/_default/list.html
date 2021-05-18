@@ -1,0 +1,12 @@
+{{ define "main" -}}
+<ul class="posts">
+{{ range .Data.Pages -}}
+  <li>
+  <hr />
+  <img src="{{ .Params.ogimage }}" alt="{{.Description}}" />
+    <span><a href="{{ .Permalink }}">{{ .Title | lower}}</a> - {{ .Description }}</span>
+
+  </li>
+{{- end }}
+</ul>
+{{- end }}
