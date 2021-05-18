@@ -10,7 +10,6 @@ Vestibulum fringilla sed turpis ut ultricies. Maecenas non rutrum est. Sed preti
 fmt.printf("Here is some %s", code)
 ```
 
-
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In ac tempus libero, vitae ultricies orci. Duis rhoncus semper elit. Maecenas nec consequat odio. Donec vel felis finibus, venenatis mi ac, malesuada libero. Nulla egestas, tellus eu rhoncus bibendum, urna diam gravida lorem, at luctus tellus tortor id nibh. In hac habitasse platea dictumst. Nulla tristique quam eros, id laoreet nisl imperdiet eget. Aliquam a nunc vel nisi pulvinar posuere. In urna dolor, aliquet interdum vulputate eu, euismod quis mauris. Vivamus auctor consequat sem. Suspendisse pellentesque nisi sed lacinia pellentesque. Morbi tristique sem id arcu faucibus lacinia. Ut blandit, ex in accumsan egestas, leo lorem rhoncus tortor, non fermentum magna urna non nisi.
 
 
