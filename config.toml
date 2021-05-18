@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jeremy Morgan Dot Tech"
+theme = "hyde"
+
+[params]
+    description = "This is a great website! Come here every day"
+
+[[menus.main]]
+    Url = "/csharp/"
+    Name = "C# Stuff!!!"
+
+[[menus.main]]
+Url = "/python/"
+Name = "Python"
+
+[[menus.main]]
+Url = "/golang/"
+Name = "Golang Stuff"
+
+[[menus.main]]
+Url = "/php/"
+Name = "PHP Stuff"
